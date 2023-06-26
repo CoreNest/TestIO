@@ -1,7 +1,7 @@
 {
   "sectors": [
     {
-      "ID": "A",
+      "id": "A",
       "name": "nameA",
       "racks": [
         1,
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "ID": "B",
+      "id": "B",
       "name": "nameB",
       "racks": [
         3
